@@ -13,5 +13,5 @@
   <p>Click on the element below to open the fullscreen overlay navigation menu.</p>
   <p>In this example, the navigation menu will slide in, from left to right:</p>
   <span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; open</span>
-</div><div id="bcl"><a style="font-size:8pt;text-decoration:none;" href="http://www.devanswer.com">Developers Answer</a></div>
+</div><div id="bcl"><a style="font-size:8pt;text-decoration:none;" href="http://www.johnpaul.github.com">Developers Answer</a></div>
 </html>                        
